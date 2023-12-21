@@ -4,5 +4,6 @@ here I have created a model that predicts the salaries of data scientists and si
 ## MAPE - **0.40** (
 <br>
 <br>
-![image](https://github.com/jamshid-ds/ds_salary_prediction/assets/117648241/0410df02-ecab-4e4a-adf1-b3974a73fa1a)
-![image](https://github.com/jamshid-ds/ds_salary_prediction/assets/117648241/5f1266ed-3e19-4dff-8bb4-07d4fc1d6bfc)
+![image](https://github.com/jamshid-ds/ds_salary_prediction/assets/117648241/bb04b125-f1d5-447c-92b9-c5b805c2031e)
+
+![Uploading image.png…]()
